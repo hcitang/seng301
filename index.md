@@ -10,7 +10,7 @@
 ## Tentative Calendar
 
 * Week of 1/9
-    * Introduction
+    * Introduction [pptx](http://hcitang.org/uploads/Teaching/seng301-1-introduction.pptx)
     * Software Development Processes
     * Notes: A1 released on 1/12
 
