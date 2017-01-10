@@ -24,6 +24,14 @@ By the end of the course, students will:
 
 * Modify an existing design and its implementation in order to achieve a specified effect.
 
+By the end of the course, you will have been exposed to the following tools:
+
+* C#, .NET Framework, and maybe .NET Core: [4th most popular programming language according TIOBE](http://www.tiobe.com/tiobe-index/). C# is similar to Java, but has a lot of nice syntactic sugar pieces that make it nicer to deal with. The .NET Framework has some niceness that we will get to explore in the assignments.
+* Visual Studio (IDE + debugger): This is one of the most important things to become familiar with -- how to use the development environment to support your development process. Specifically, we will devote time in tutorial to get you accustomed to using the debugger, and thinking about how to debug code.
+* NUnit: An automated test suite that is prototypical of most automated testing tools out there. In real life, the vast majority of testing is done in an automated way. You will learn how to do it, too.
+* GitHub: A code repository is one of the most important basic tools used by professional developers (e.g. RCS, CVS, SVN, git, ...). We will use it as a "prototypical" code repository tool. You will learn to use GitHub as it is a popular online "public" repository, and also to start your own GitHub profile (one of the main ways that prospective employers evaluate you!).
+* Slack: Developers use "new hotness" tools all the time to facilitate communication. We're going to use Slack because it's the latest new hotness.
+
 ## Evaluation
 
 Note: This is tentative, and superceded by the course syllabus.
