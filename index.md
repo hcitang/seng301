@@ -12,6 +12,7 @@
 * Week of 1/9
     * Introduction
     * Software Development Processes
+    * Notes: A1 released on 1/12
 
 * Week of 1/16
     * Recap of Object-Oriented Design
@@ -19,6 +20,7 @@
 
 * Week of 1/23
     * Behavioural Modeling
+    * Notes: A1 due Fri 1/27, noon; A2 released
 
 * Week of 1/30
     * Requirements Gathering
@@ -31,6 +33,7 @@
 * Week of 2/13
     * Test Automation
     * Midterm (coverage: to 2/10)
+    * Notes: A2 due Mon 2/13, noon; A3 released
 
 * Week of 2/20: Reading Week
 
@@ -40,6 +43,7 @@
 * Week of 3/6
     * Design Patterns
     * Design Principles
+    * Notes: A3 due Fri 3/10; A4 released
 
 * Week of 3/13
     * Design Concepts
@@ -52,6 +56,7 @@
 * Week of 3/27
     * Prototyping
     * Agile Processes
+    * Notes: A4 due Fri 3/31
 
 ## Tutorials
 
