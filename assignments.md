@@ -40,3 +40,9 @@ As a group, you need to build an automated test suite for the system. You have a
 ## A4: Redesigning for the Future (group)
 
 The client is interested in "future-proofing" their tool. Your team must redesign (and recode) some aspects of the system to account for this future proofing. You will need to document the redesign, and design a test plan for the changes.
+
+## No Late Assignments
+
+I do not accept late assignments. They are due on the day at the time specified.
+
+Extremely extenuating circumstances may be considered, but you will need to make an appointment with me for office hours, and bring along your calendar.
