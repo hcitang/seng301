@@ -5,6 +5,7 @@
 * Lectures: TR 9:30-10:45, ICT121
 * Office Hours: TR 10:50-11:50 MS680B (or by appointment)
 * Instructor: [Tony Tang](http://hcitang.org)
+* [Slack Channel](https://seng301.slack.com/) ([sign up](https://seng301.slack.com/signup))
 
 ## Tentative Calendar
 
