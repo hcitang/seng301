@@ -12,7 +12,7 @@
 * Week of 1/9
     * Introduction [pptx](http://hcitang.org/uploads/Teaching/seng301-1-introduction.pptx)
     * Software Development Processes
-    * Notes: A1 released on 1/12
+    * Notes: [A1 released on 1/12](a1.md)
 
 * Week of 1/16
     * Recap of Object-Oriented Design
