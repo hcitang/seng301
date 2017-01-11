@@ -25,7 +25,7 @@ In this assignment, your task is to join the SENG301 Slack chat [https://seng301
 * Put a picture of yourself in your account (this is important to me)
 * Post a message in the #profiles channel with your name, why you are taking this course, something that interests you, and your desired super power (or a super power you have).
 
-## A1: Implementation to Specification
+## A1: Implementation to Specification [(details)](a1.md)
 
 You are given a specification and a partially working piece of (stubbed) code. Your job is to write the code to fulfill the test specification with (likely) only a partial understanding of the system as a whole.
 
