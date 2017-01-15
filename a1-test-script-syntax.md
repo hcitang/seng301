@@ -37,7 +37,7 @@ Syntax:
 Usage:
 
 `COIN_LOAD ([0] 0; 25, 1)` // loads one $0.25 coin into the first slot of the first vending machine
-`COIN_LOAD ([0] 1; 5, 10)` // loads 10 $0.5 coins into the second slot of the first vending machine
+`COIN_LOAD ([0] 1; 5, 10)` // loads 10 $0.05 coins into the second slot of the first vending machine
 
 ## POP_LOAD
 
