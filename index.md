@@ -15,7 +15,7 @@
     * Notes: [A1 released on 1/12](a1.md)
 
 * Week of 1/16
-    * Recap of Object-Oriented Design
+    * Recap of Object-Oriented Programming
     * Structural Modeling
 
 * Week of 1/23
