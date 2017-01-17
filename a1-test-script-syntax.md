@@ -16,6 +16,8 @@ Usage:
 
 Configures a vending machine (subject to the conditions above) specified by an index with pop-name and price pairs for as many pops as has been specified by a previous `CREATE` command. If you attempt to configure more pops than the vending machine has buttons, this is an error.
 
+Pop names should only have letters and no special characters or spaces.
+
 Syntax:
 
 `CONFIGURE ([ [vending-machine-index] ] [pop-name], [price] { ; [pop-name], [price] })`
