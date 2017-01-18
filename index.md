@@ -1,4 +1,4 @@
-# SENG 301 - Design and Analysis of Large Software Systems
+# SENG 301 - Software Analysis and Design
 
 ## Course Information
 
