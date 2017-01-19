@@ -16,7 +16,7 @@
 
 * Week of 1/16
     * Recap of Object-Oriented Programming [pptx](http://hcitang.org/uploads/Teaching/seng301-3-ood.pptx)
-    * Structural Modeling
+    * Structural Modeling [pptx](http://hcitang.org/uploads/Teaching/seng301-4-structural-modeling.pptx)
 
 * Week of 1/23
     * Behavioural Modeling
