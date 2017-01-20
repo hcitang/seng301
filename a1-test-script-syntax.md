@@ -24,7 +24,7 @@ Syntax:
 
 Usage:
 
-`CONFIGURE ([0] "Coke", 100; "Pepsi", 100; "7-Up", 150)` // configures the first vending machine (0th) with three pops with their respective prices
+`CONFIGURE ([0] "Coke", 100; "Pepsi", 100; "SevenUp", 150)` // configures the first vending machine (0th) with three pops with their respective prices
 `CONFIGURE ([0] "Milk", 10)` // configures the first vending machine to sell milk for $0.10
 `CONFIGURE ([1] "Coke", 0)` // fails because the price needs to be greater than 0; could also fail if a second vending machine has not yet been created using the `CREATE` command twice
 
