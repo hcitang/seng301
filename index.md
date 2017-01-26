@@ -19,7 +19,7 @@
     * Structural Modeling [pptx](http://hcitang.org/uploads/Teaching/seng301-4-structural-modeling.pptx)
 
 * Week of 1/23
-    * Behavioural Modeling [sequence diagrams pptx](http://hcitang.org/uploads/Teaching/seng301-5-sequence-diagrams.pptx)
+    * Behavioural Modeling [sequence diagrams pptx](http://hcitang.org/uploads/Teaching/seng301-5-sequence-diagrams.pptx) | [state diagrams pptx](http://hcitang.org/uploads/Teaching/seng301-6-state-diagrams.pptx)
     * Notes: A1 due Fri 1/27, noon; A2 released
 
 * Week of 1/30
