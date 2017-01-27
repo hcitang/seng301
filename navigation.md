@@ -10,7 +10,7 @@
   - - - -
   * [A0](assignments.md)
   * [A1](a1.md)
-  * [A2](assignments.md)
+  * [A2](a2.md)
   * [A3](assignments.md)
   * [A4](assignments.md)
 

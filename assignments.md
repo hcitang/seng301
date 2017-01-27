@@ -29,9 +29,9 @@ In this assignment, your task is to join the SENG301 Slack chat [https://seng301
 
 You are given a specification and a partially working piece of (stubbed) code. Your job is to write the code to fulfill the test specification with (likely) only a partial understanding of the system as a whole.
 
-## A2: Redesign to New Specification & Modeling
+## A2: Handling Events and Modeling Systems with Diagrams [(details)](a2.md)
 
-The client has changed their mind about how the system works, and have changed the specification. Doh! Your job is to modify the code so that it fulfills the new specification. You will also sketch models of both the old and new system as documentation of the changes that have been made. (So the client believes you did something.)
+The client already has some hardware that you're supposed to build against, and the specification has changed! Doh! Your job is to modify the code so that it fulfills the new specification. You will also sketch models of both the old and new system as documentation of the changes that have been made so that the new intern can get up to speed quickly.
 
 ## A3: Designing Automated Tests (group)
 
