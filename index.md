@@ -6,6 +6,7 @@
 * Office Hours: TR 10:50-11:50 MS680B (or by appointment)
 * Instructor: [Tony Tang](http://hcitang.org)
 * [Slack Channel](https://seng301.slack.com/) ([sign up](https://seng301.slack.com/signup))
+* [Reddit: /r/uofcseng301](http://reddit.com/r/uofcseng301)
 
 ## Tentative Calendar
 
@@ -32,7 +33,7 @@
 
 * Week of 2/13
     * Test Automation
-    * Midterm (coverage: to 2/10)
+    * Thu 2/16 - In-class Midterm (coverage: to 2/10)
     * Notes: A2 due Mon 2/13, noon; A3 released
 
 * Week of 2/20: Reading Week
@@ -100,7 +101,7 @@
 
 ## Expected Assignment Dates
 
-* Assignment 1: Friday 1/27, noon
+* ~~Assignment 1: Friday 1/27, noon~~
 * Assignment 2: Monday 2/13, noon
 * Assignment 3: Friday 3/10, noon
 * Assignment 4: Friday 3/31, noon
