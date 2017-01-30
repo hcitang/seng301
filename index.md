@@ -20,7 +20,7 @@
 
 * Week of 1/23
     * Behavioural Modeling [sequence diagrams pptx](http://hcitang.org/uploads/Teaching/seng301-5-sequence-diagrams.pptx) | [state diagrams pptx](http://hcitang.org/uploads/Teaching/seng301-6-state-diagrams.pptx)
-    * Notes: A1 due Fri 1/27, noon; A2 released
+    * Notes: A1 due Fri 1/27, noon; [A2 released](a2.md)
 
 * Week of 1/30
     * Requirements Gathering
