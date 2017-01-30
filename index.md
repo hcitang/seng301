@@ -6,7 +6,7 @@
 * Office Hours: TR 10:50-11:50 MS680B (or by appointment)
 * Instructor: [Tony Tang](http://hcitang.org)
 * [Slack Channel](https://seng301.slack.com/) ([sign up](https://seng301.slack.com/signup))
-* [Reddit: /r/uofcseng301](http://reddit.com/r/uofcseng301)
+<!-- * [Reddit: /r/uofcseng301](http://reddit.com/r/uofcseng301) -->
 
 ## Tentative Calendar
 
