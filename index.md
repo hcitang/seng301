@@ -24,7 +24,7 @@
     * Notes: A1 due Fri 1/27, noon; [A2 released](a2.md)
 
 * Week of 1/30
-    * Requirements Gathering
+    * Requirements Gathering [pptx](http://hcitang.org/uploads/Teaching/seng301-7-requirements-gathering.pptx) [A1 post-mortem](http://hcitang.org/uploads/Teaching/seng301-a1-post.pptx) [A2 comments](http://hcitang.org/uploads/Teaching/seng301-a2-pre.pptx)
     * Requirements Modeling
 
 * Week of 2/6
