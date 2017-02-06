@@ -28,11 +28,11 @@
     * Requirements Modeling [pptx](http://hcitang.org/uploads/Teaching/seng301-8-requirements-modeling.pptx)
 
 * Week of 2/6
-    * Testing Logic
-    * Test Case Selection and Granularity
+    * Testing Overview [pptx](http://hcitang.org/uploads/Teaching/seng301-9-testing-overview.pptx)
+    * Test Case Selection [pptx](http://hcitang.org/uploads/Teaching/seng301-10-testing-breaking-code.pptx)
 
 * Week of 2/13
-    * Test Automation
+    * Testing Granularities and Automation
     * Thu 2/16 - In-class Midterm (coverage: to 2/10)
     * Notes: A2 due Mon 2/13, noon; A3 released
 
