@@ -59,6 +59,8 @@
     * Agile Processes
     * Notes: A4 due Fri 3/31
 
+* Final exam: Friday, April 21, 8am-11am
+
 ## Tutorials
 
 * Week of 1/16
