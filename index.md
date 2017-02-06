@@ -32,7 +32,7 @@
     * Test Case Selection [pptx](http://hcitang.org/uploads/Teaching/seng301-10-testing-breaking-code.pptx)
 
 * Week of 2/13
-    * Testing Granularities and Automation
+    * Testing Granularities and Automation [pptx](http://hcitang.org/uploads/Teaching/seng301-11-testing-granularities.pptx)
     * Thu 2/16 - In-class Midterm (coverage: to 2/10)
     * Notes: A2 due Mon 2/13, noon; A3 released
 
