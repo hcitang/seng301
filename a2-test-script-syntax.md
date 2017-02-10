@@ -99,15 +99,22 @@ Usage:
 
 ## UNLOAD and CHECK_TEARDOWN
 
+NOTE: There's a bug in the SENG301Analyzer.CheckTeardown() function, and so the updated documentation reflects a slightly simpler solution.
+
 `UNLOAD` is paired with its cousin command `CHECK-TEARDOWN`. Unload returns all of the unsold pop, all the money that has been collected, and all the reamining change. Check-Teardown checks to see if what has been unloaded matches with what is expected.
 
 Syntax:
 
 `UNLOAD ([ [vending-machine-index] ])`
-`CHECK_TEARDOWN ( [value-of-change-remaining] ; [value-of-money-collected] { ; [pop-name] { , [pop-name]}})`
+~~`CHECK_TEARDOWN ( [value-of-change-remaining] ; [value-of-money-collected] { ; [pop-name] { , [pop-name]}})`~~
+`CHECK_TEARDOWN ( [value-of-change-remaining] ; [value-of-money-in-the-storage-bin] { ; [pop-name] { , [pop-name]}})`
 
 Usage:
 
 `UNLOAD ([1])` // unloads everything from the second vending machine
-`CHECK_TEARDOWN (15; 200; "Coke", "Sprite", "Milk")` // passes if we had 15 cents remaining in change, $2 in money collected, and the three drinks remaining unsold
-`CHECK_TEARDOWN (10; 500)` // passes if we sold all of our pops, and made $5, and had 10 cents left in change
+~~`CHECK_TEARDOWN (15; 200; "Coke", "Sprite", "Milk")` // passes if we had 15 cents remaining in change, $2 in money collected, and the three drinks remaining unsold~~
+~~`CHECK_TEARDOWN (10; 500)` // passes if we sold all of our pops, and made $5, and had 10 cents left in change~~
+
+`CHECK_TEARDOWN (15; 200; "Coke", "Sprite", "Milk")` // passes if we had 15 cents remaining in change, $2 in money in the storage bin, and the three drinks remaining unsold
+`CHECK_TEARDOWN (10; 500)` // passes if we sold all of our pops, and there was $5 in the storage bin, and had 10 cents left in change
+
