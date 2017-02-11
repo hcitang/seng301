@@ -11,7 +11,7 @@
   * [A0](assignments.md)
   * [A1](a1.md)
   * [A2](a2.md)
-  * [A3](assignments.md)
+  * [A3](a3.md)
   * [A4](assignments.md)
 
 [gimmick:theme](flatly)

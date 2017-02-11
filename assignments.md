@@ -33,9 +33,9 @@ You are given a specification and a partially working piece of (stubbed) code. Y
 
 The client already has some hardware that you're supposed to build against, and the specification has changed! Doh! Your job is to modify the code so that it fulfills the new specification. You will also sketch models of both the old and new system as documentation of the changes that have been made so that the new intern can get up to speed quickly.
 
-## A3: Designing Automated Tests (group)
+## A3: Designing Automated Tests (group) [(details)](a3.md)
 
-As a group, you need to build an automated test suite for the system. You have a set of existing tests that are normally run manually, and need to translate these into automated tests that can be run from a test harness.
+The incompentent management continues. Your boss has just returned from a seminar on the "Joys of Automated Unit Testing", and now tells you that the way your team has been testing (i.e. using scripts) doesn't make sense! Your job with your team is to translate all the test scripts into automated unit tests.
 
 ## A4: Redesigning for the Future (group)
 
