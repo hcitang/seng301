@@ -104,6 +104,6 @@
 ## Expected Assignment Dates
 
 * ~~Assignment 1: Friday 1/27, noon~~
-* Assignment 2: Monday 2/13, noon
+* ~~Assignment 2: Monday 2/13, noon~~
 * Assignment 3: Friday 3/10, noon
 * Assignment 4: Friday 3/31, noon
