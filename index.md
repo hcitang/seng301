@@ -39,25 +39,27 @@
 * Week of 2/20: Reading Week
 
 * Week of 2/27
-    * Design (requirements to design)
 
 * Week of 3/6
-    * Design Patterns
+    * Design (requirements to design)
     * Design Principles
     * Notes: A3 due Fri 3/10; A4 released
 
 * Week of 3/13
+    * Design Patterns
+
+* Week of 3/20
     * Design Concepts
     * Refactoring
 
-* Week of 3/20
+* Week of 3/27
     * Evolvability
     * Requirements Gathering 2
+    * Notes: A4 due Fri 3/31
 
-* Week of 3/27
+* Week of 4/3
     * Prototyping
     * Agile Processes
-    * Notes: A4 due Fri 3/31
 
 * Final exam: Friday, April 21, 8am-11am
 
