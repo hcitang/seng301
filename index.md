@@ -39,11 +39,12 @@
 * Week of 2/20: Reading Week
 
 * Week of 2/27
+    * Midterm redux
 
 * Week of 3/6
-    * Design (requirements to design)
+    * Design
     * Design Principles
-    * Notes: A3 due Fri 3/10; A4 released
+    * Notes: Quiz 1 on 3/7; A3 due Fri 3/10; A4 released
 
 * Week of 3/13
     * Design Patterns
