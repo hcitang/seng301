@@ -42,7 +42,7 @@
     * Midterm redux
 
 * Week of 3/6
-    * Design
+    * Design [pptx](http://hcitang.org/uploads/Teaching/seng301-12-design-for-release.pptx)
     * Design Principles
     * Notes: Quiz 1 on 3/7; A3 due Fri 3/10; A4 released
 
