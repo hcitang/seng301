@@ -44,10 +44,11 @@
 * Week of 3/6
     * Design [pptx](http://hcitang.org/uploads/Teaching/seng301-12-design.pptx)
     * Design Principles [pptx](http://hcitang.org/uploads/Teaching/seng301-13-design-principles.pptx)
-    * Notes: Quiz 1 on 3/7; A3 due Fri 3/10; A4 released
+    * Notes: Quiz 1 on 3/7; A3 due Fri 3/10; [A4 released](a4.md)
 
 * Week of 3/13
     * Design Patterns
+    * Notes: [A4 released](a4.md)
 
 * Week of 3/20
     * Design Concepts
@@ -56,11 +57,12 @@
 * Week of 3/27
     * Evolvability
     * Requirements Gathering 2
-    * Notes: A4 due Fri 3/31
+    * Notes: ~~A4 due Fri 3/31~~
 
 * Week of 4/3
     * Prototyping
     * Agile Processes
+    * Notes: A4 due Mon 4/3
 
 * Final exam: Friday, April 21, 8am-11am
 
