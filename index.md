@@ -52,12 +52,11 @@
 
 * Week of 3/20
     * Design Patterns [pptx](http://hcitang.og/uploads/Teaching/seng301-14-intro-to-design-patterns.pptx)
-    * Design Concepts [pptx](http://hcitang.og/uploads/Teaching/seng301-15-intro-to-software-architecture.pptx)
-    * Refactoring
+    * Software Architecture [pptx](http://hcitang.og/uploads/Teaching/seng301-15-intro-to-software-architecture.pptx)
 
 * Week of 3/27
     * Evolvability
-    * Requirements Gathering 2
+    * Refactoring
     * Notes: ~~A4 due Fri 3/31~~
 
 * Week of 4/3
