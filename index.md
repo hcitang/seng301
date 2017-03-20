@@ -52,7 +52,7 @@
 
 * Week of 3/20
     * Design Patterns [pptx](http://hcitang.og/uploads/Teaching/seng301-14-intro-to-design-patterns.pptx)
-    * Design Concepts
+    * Design Concepts [pptx](http://hcitang.og/uploads/Teaching/seng301-15-intro-to-software-architecture.pptx)
     * Refactoring
 
 * Week of 3/27
