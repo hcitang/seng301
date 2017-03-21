@@ -111,4 +111,4 @@
 * ~~Assignment 1: Friday 1/27, noon~~
 * ~~Assignment 2: Monday 2/13, noon~~
 * ~~Assignment 3: Friday 3/10, noon~~
-* Assignment 4: Friday 4/3, noon
+* Assignment 4: Monday 4/3, noon
