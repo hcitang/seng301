@@ -60,9 +60,12 @@
     * Notes: ~~A4 due Fri 3/31~~
 
 * Week of 4/3
-    * Prototyping
     * Agile Processes
+    * Prototyping
     * Notes: A4 due Mon 4/3
+
+* Week of 4/10
+    * Conclusions
 
 * Final exam: Friday, April 21, 8am-11am
 
