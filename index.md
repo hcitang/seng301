@@ -51,8 +51,8 @@
     * Notes: [A4 released](a4.md)
 
 * Week of 3/20
-    * Design Patterns [pptx](http://hcitang.og/uploads/Teaching/seng301-14-intro-to-design-patterns.pptx)
-    * Software Architecture [pptx](http://hcitang.og/uploads/Teaching/seng301-15-intro-to-software-architecture.pptx)
+    * Design Patterns [pptx](http://hcitang.org/uploads/Teaching/seng301-14-intro-to-design-patterns.pptx)
+    * Software Architecture [pptx](http://hcitang.org/uploads/Teaching/seng301-15-intro-to-software-architecture.pptx)
 
 * Week of 3/27
     * Evolvability
