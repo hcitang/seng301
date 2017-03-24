@@ -62,7 +62,7 @@
 * Week of 4/3
     * Agile Processes
     * Prototyping
-    * Notes: A4 due Mon 4/3
+    * Notes: A4 due Fri 4/7 (if you submit by Mon 4/3 noon, you receive a 5% bonus)
 
 * Week of 4/10
     * Conclusions
@@ -114,4 +114,4 @@
 * ~~Assignment 1: Friday 1/27, noon~~
 * ~~Assignment 2: Monday 2/13, noon~~
 * ~~Assignment 3: Friday 3/10, noon~~
-* Assignment 4: Monday 4/3, noon
+* Assignment 4: Friday 4/7, noon; if you submit by the original Mon 4/3 noon deadline, you receive a 5% bonus
