@@ -55,8 +55,8 @@
     * Software Architecture [pptx](http://hcitang.org/uploads/Teaching/seng301-15-intro-to-software-architecture.pptx)
 
 * Week of 3/27
-    * Evolvability
-    * Refactoring
+    * Evolvability [pptx](http://hcitang.org/uploads/Teaching/seng301-16-evolvability.pptx)
+    * Refactoring [pptx](http://hcitang.org/uploads/Teaching/seng301-17-refactoring.pptx)
     * Notes: ~~A4 due Fri 3/31~~
 
 * Week of 4/3
