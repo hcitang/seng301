@@ -62,7 +62,7 @@
 * Week of 4/3
     * Agile Processes
     * Prototyping
-    * Notes: A4 due Fri 4/7 (if you submit by Mon 4/3 noon, you receive a 5% bonus)
+    * Notes: Quiz 2 on 4/4; A4 due Fri 4/7 (if you submit by Mon 4/3 noon, you receive a 5% bonus)
 
 * Week of 4/10
     * Conclusions
