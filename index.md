@@ -60,7 +60,7 @@
     * Notes: ~~A4 due Fri 3/31~~
 
 * Week of 4/3
-    * Agile Processes
+    * Agile Processes [pptx](http://hcitang.org/uploads/Teaching/seng301-18-agile-methods.pptx)
     * Prototyping
     * Notes: Quiz 2 on 4/4; A4 due Fri 4/7 (if you submit by Mon 4/3 noon, you receive a 5% bonus)
 
