@@ -109,6 +109,13 @@
     * Process & Use Case Modeling
     * Prototyping
 
+* Week of 4/3
+    * Refactoring
+    * Open
+
+* Week of 4/10
+    * No tutorial
+
 ## Expected Assignment Dates
 
 * ~~Assignment 1: Friday 1/27, noon~~
