@@ -65,7 +65,8 @@
     * Notes: Quiz 2 on 4/4; A4 due Fri 4/7 noon (if you submit by Mon 4/3 noon, you receive a 5% bonus)
 
 * Week of 4/10
-    * Conclusions
+    * A4-post [pptx](http://hcitang.org/uploads/Teaching/seng301-a4-post.pptx)
+    * Last Lecture [pptx](http://hcitang.org/uploads/Teaching/seng301-20-last-lecture.pptx)
 
 * Final exam: Friday, April 21, 8am-11am
 
